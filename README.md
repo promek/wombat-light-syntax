@@ -1,6 +1,6 @@
 # Wombat Light Syntax Theme
 
-An [Atom](https://atom.io/) syntax theme. ( Python / NodeJS / Markdown / PHP / HTML / CSS )
+An [Atom](https://atom.io/) syntax theme. ( Python, NodeJS, Markdown, PHP, HTML, CSS )
 
 * Atom port of the Vim [Wombat](http://www.vim.org/scripts/script.php?script_id=1778) color scheme.
 * Converted from the [One Light Syntax](https://github.com/atom/one-light-syntax)
