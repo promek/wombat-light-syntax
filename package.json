@@ -2,7 +2,7 @@
   "name": "wombat-light-syntax",
   "theme": "syntax",
   "version": "1.0.0",
-  "description": "Wombat Atom Light Syntax Theme.( Python / PHP / NodeJS / Markdown )",
+  "description": "Wombat Atom Light Syntax Theme. ( Python, NodeJS, Markdown, PHP, HTML, CSS )",
   "keywords": [
     "wombat",
     "light",
