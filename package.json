@@ -1,15 +1,21 @@
 {
-  "name": "one-light-syntax",
+  "name": "wombat-light-syntax",
   "theme": "syntax",
-  "version": "0.7.0",
-  "description": "Atom One light syntax theme",
+  "version": "1.0.0",
+  "description": "Wombat Atom Light Syntax Theme.( Python / PHP / NodeJS / Markdown )",
   "keywords": [
+    "wombat",
     "light",
-    "syntax"
+    "syntax",
+    "python",
+    "php",
+    "javascript",
+    "nodejs",
+    "markdown"
   ],
-  "repository": "https://github.com/atom/one-light-syntax",
+  "repository": "https://github.com/promek/wombat-light-syntax",
   "license": "MIT",
   "engines": {
-    "atom": ">0.40.0"
+    "atom": ">0.50.0"
   }
 }

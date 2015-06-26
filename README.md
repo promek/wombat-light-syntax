@@ -1,10 +1,10 @@
-## One Light Syntax theme
+# Wombat Light Syntax Theme
 
-![one-syntax-light](https://cloud.githubusercontent.com/assets/378023/7783214/c146b4e6-0174-11e5-8377-a57cf0274d5d.png)
+An [Atom](https://atom.io/) syntax theme. ( Python / PHP / NodeJS / Markdown )
 
-> The font used in the screenshot is [Fira Mono](https://github.com/mozilla/Fira).
+* Atom port of the Vim [Wombat](http://www.vim.org/scripts/script.php?script_id=1778) color scheme.
+* Converted from the [One Dark Syntax](https://github.com/atom/one-light-syntax)
 
-There is also a matching [UI theme](https://atom.io/themes/one-light-ui).
 
 ### Install
 
