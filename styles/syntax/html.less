@@ -1,0 +1,20 @@
+.syntax--html {
+
+  .syntax--entity {
+    &.syntax--name.syntax--tag {
+      color: @px-blue;
+      &.syntax--style,
+      &.syntax--script {
+            color: @px-code;
+      }
+    }
+
+    &.syntax--other.syntax--attribute-name {
+      color: @px-violet;
+      &.syntax--id {
+        color: @px-violet;
+      }
+    }
+  }
+
+}

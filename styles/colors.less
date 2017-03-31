@@ -15,3 +15,31 @@
 @px-error: #E62424;
 @px-magenta: #D33682;
 @px-violet: #8757AD;
+@px-link: #004A70;
+
+// Config -----------------------------------
+@syntax-hue:          230;
+@syntax-saturation:    1%;
+@syntax-brightness:   98%;
+
+// Monochrome -----------------------------------
+@mono-1: @px-text; //hsl(@syntax-hue, 8%, 24%);
+@mono-2: hsl(@syntax-hue, 6%, 44%);
+@mono-3: hsl(@syntax-hue, 4%, 64%);
+
+// Colors -----------------------------------
+@hue-1:   @px-red; //hsl(198, 99%, 37%); // <-cyan
+@hue-2:   @px-violet; //hsl(221, 87%, 60%); // <-blue
+@hue-3:   @px-blue; //hsl(301, 63%, 40%); // <-purple
+@hue-4:   @px-green;//hsl(119, 34%, 47%); // <-green
+@hue-5:   @px-text; //hsl(  5, 74%, 59%); // <-red 1
+@hue-5-2: @px-magenta; //hsl(344, 84%, 43%); // <-red 2
+@hue-6:   @px-orange; //hsl(41, 99%, 30%); // <-orange 1
+@hue-6-2: @px-violet; //hsl(41, 99%, 38%); // <-orange 2
+
+// Base colors -----------------------------------
+@syntax-fg:     @px-text;
+@syntax-bg:     @px-back1; //hsl(@syntax-hue, @syntax-saturation, @syntax-brightness);
+@syntax-gutter: @px-comment; //darken(@syntax-bg, 36%);
+@syntax-guide:  @px-back2; //fade(@syntax-fg, 20%);
+@syntax-accent: @px-orange; //hsl(@syntax-hue, 100%, 66% );
